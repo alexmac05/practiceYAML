@@ -6,7 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+#alexmac05's adds
 .idea
+*.yaml
+*.yml
+
 # Distribution / packaging
 .Python
 build/
